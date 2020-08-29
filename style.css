@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+}
+.advert-conteiner{
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    max-width: 400px;
+    margin: auto;  
+}
+
+h1{
+    font-size: 20px;
+    color:orange;
+}
+button{
+    color:orange;
+}
+img{
+    width: 100%;
+}
+.toggle{
+    outline: none;
+    border: 0;
+    background: transparent;
+}
+.hedden{
+    display: hidden;
+}
